@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi I'm Max 👋
 
-<!--
-**max-gloeckner/max-gloeckner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dual Applied Computer Science student from Germany with a focus on Data Engineering, Cloud Computing, and modern data platforms.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a Public Data Platform from scratch
+- Learning Data Engineering and Cloud technologies
+- Working with public APIs, data pipelines and backend development
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/max-glöckner-007372291/
